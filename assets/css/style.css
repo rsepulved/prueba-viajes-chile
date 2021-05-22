@@ -1,0 +1,40 @@
+
+/* selector */ 
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    background-color: black;
+    color: #ffffff;
+   
+}
+
+ html{
+    scroll-behavior: smooth; /*SMOOTH TRANSITION*/
+}
+
+/* clase  para el tamaño de logo del navbar */
+.logo{                                                 
+    height: 45px;  
+}
+
+/* clase para el fondo de la seccion de presentacion   */                                        
+.fondo-quienes{
+    background-color:darkturquoise;
+    padding-left: 150px;                   
+    padding-right: 150px;                 /*  ajuste de padding en las cabeceras de las cards */
+}
+
+/* linea divisora */
+
+.dropdown-divider{
+    border-block-color: darkturquoise;    /* linea color turquesa */
+}
+/* fondo azul turquesa de las cards */
+.card{
+    background-color: darkturquoise;        
+}
+
+.iconosblancos{
+    fill: white;                        /* fondo blanco en fond awsome linkedin y facebook */
+
+}
